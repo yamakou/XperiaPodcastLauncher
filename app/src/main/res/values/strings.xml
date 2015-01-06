@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">XperiaPodcastLauncher</string>
-    <string name="title_activity_main">Podcast\nLauncher</string>
+    <string name="app_name">XPodcastLauncher</string>
+    <string name="title_activity_main">XPodcast\nLauncher</string>
 
 </resources>

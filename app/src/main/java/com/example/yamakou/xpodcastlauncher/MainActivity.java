@@ -1,10 +1,8 @@
-package com.example.yamakou.xperiapodcastlauncher;
+package com.example.yamakou.xpodcastlauncher;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 
 
 public class MainActivity extends ActionBarActivity {
