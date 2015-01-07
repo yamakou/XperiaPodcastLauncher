@@ -1,4 +1,4 @@
-package com.example.yamakou.xpodcastlauncher;
+package com.yamakoudev.android.xpodcastlauncher;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
